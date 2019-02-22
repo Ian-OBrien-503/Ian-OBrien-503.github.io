@@ -2,3 +2,5 @@
 
 -issues with styling and image adding to the website, github pages is very slow to update once
 push is made :(
+
+-trying to remember how to add ssh key so that i dont have to type in user name and password everytime i push an update to github to see changes, tempororay work around by increasing the cache time that the password is stored to 9999 seconds
