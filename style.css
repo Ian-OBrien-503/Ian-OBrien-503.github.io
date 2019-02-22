@@ -1,11 +1,6 @@
 
 
 // adding background styling to whole page
-body{
-  background: blue;
-}
-
-// add styling to name header a
 h1{
   color: red;
   background: black;
