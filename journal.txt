@@ -1,0 +1,4 @@
+-issues with getting bootstrap to work, but just using existing template for the sake of time
+
+-issues with styling and image adding to the website, github pages is very slow to update once
+push is made :(
