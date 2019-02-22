@@ -4,3 +4,9 @@
 push is made :(
 
 -trying to remember how to add ssh key so that i dont have to type in user name and password everytime i push an update to github to see changes, tempororay work around by increasing the cache time that the password is stored to 9999 seconds
+
+-issues getting style.css sheet to respond
+
+-getting one look for website from mobile phone and another on the desktop?
+
+-want to add more color to webpage without making it looking clunky, having some issues with style.css to work correctly. added src to html file so it can see the style sheet, only half working. 
