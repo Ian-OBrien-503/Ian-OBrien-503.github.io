@@ -9,4 +9,6 @@ push is made :(
 
 -getting one look for website from mobile phone and another on the desktop?
 
--want to add more color to webpage without making it looking clunky, having some issues with style.css to work correctly. added src to html file so it can see the style sheet, only half working. 
+-want to add more color to webpage without making it looking clunky, having some issues with style.css to work correctly. added src to html file so it can see the style sheet, only half working.
+
+-issues with formatting with themes, forgot to add CDN's givig it a go
