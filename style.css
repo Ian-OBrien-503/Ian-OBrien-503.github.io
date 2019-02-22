@@ -1,9 +1,8 @@
 
 
 // adding background styling to whole page
-.container{
+body{
   background: blue;
-
 }
 
 // add styling to name header a
