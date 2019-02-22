@@ -1,6 +1,9 @@
 
 
 // adding background styling to whole page
+
+@body-bg: azure;
+
 h1{
   color: red;
   background: black;
