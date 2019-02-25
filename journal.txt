@@ -14,3 +14,5 @@ push is made :(
 -issues with formatting with themes, forgot to add CDN's givig it a go
 
 -adding a new landing page with about information, contact info, and general landing page info, trying to figure out how to add one big image and then how to best deal with data, in navbar? on page? link to new page?
+
+-trying to get large image of portland as background image of landing page but having issues as it is replacing all other content and pushing text to bottom of page
