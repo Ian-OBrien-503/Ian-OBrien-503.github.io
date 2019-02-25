@@ -12,3 +12,5 @@ push is made :(
 -want to add more color to webpage without making it looking clunky, having some issues with style.css to work correctly. added src to html file so it can see the style sheet, only half working.
 
 -issues with formatting with themes, forgot to add CDN's givig it a go
+
+-adding a new landing page with about information, contact info, and general landing page info, trying to figure out how to add one big image and then how to best deal with data, in navbar? on page? link to new page?
