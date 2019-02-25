@@ -18,3 +18,5 @@ push is made :(
 -trying to get large image of portland as background image of landing page but having issues as it is replacing all other content and pushing text to bottom of page
 
 -trying to decide if i want to just publish .pdf or rewrite resume in either LaTex or html, just posting pdf version of resume for now, will update later
+
+-issues getting pdf to publish to a new page
