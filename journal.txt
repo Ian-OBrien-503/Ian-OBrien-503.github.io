@@ -22,3 +22,5 @@ push is made :(
 -issues getting pdf to publish to a new page
 
 -felt cheesy using pdf doc for resume for project, rewriting in html 
+
+-not liking the plain html resume format, looking for boostrap/jekyl template, may just use .pdf for now until have more time to really polish it
