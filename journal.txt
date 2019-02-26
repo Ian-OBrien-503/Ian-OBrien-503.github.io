@@ -24,3 +24,5 @@ push is made :(
 -felt cheesy using pdf doc for resume for project, rewriting in html 
 
 -not liking the plain html resume format, looking for boostrap/jekyl template, may just use .pdf for now until have more time to really polish it
+
+-thought i had working resume, ran into some issues formatting and starting over....again
